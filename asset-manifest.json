@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.a5ca1161.css",
-    "main.js": "/static/js/main.00b963d1.js",
+    "main.js": "/static/js/main.1426ff23.js",
     "static/js/787.68a75b7d.chunk.js": "/static/js/787.68a75b7d.chunk.js",
     "static/media/slider_back.jpg": "/static/media/slider_back.ee91e1e51f1f903d94ba.jpg",
     "static/media/logo_tm.png": "/static/media/logo_tm.60cbb487286a3f677c42.png",
     "index.html": "/index.html",
     "main.a5ca1161.css.map": "/static/css/main.a5ca1161.css.map",
-    "main.00b963d1.js.map": "/static/js/main.00b963d1.js.map",
+    "main.1426ff23.js.map": "/static/js/main.1426ff23.js.map",
     "787.68a75b7d.chunk.js.map": "/static/js/787.68a75b7d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5ca1161.css",
-    "static/js/main.00b963d1.js"
+    "static/js/main.1426ff23.js"
   ]
 }
